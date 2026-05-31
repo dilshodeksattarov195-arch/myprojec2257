@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "cachesarse",
+        "uuid": 9878889,
+        "checksum": "benopq"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
